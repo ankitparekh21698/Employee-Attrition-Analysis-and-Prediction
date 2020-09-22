@@ -1,4 +1,4 @@
-# employee_attrition
+# Employee Attrition Analysis
 Data Visualization and Analysis Project on IBM HR Analytics Data.
 
 Please view the notebook using below link if it is not loading on github.
